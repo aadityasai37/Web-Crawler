@@ -12,4 +12,4 @@ Note: This is part of an open source search engine. The purpose of this tool is 
 
 developed by
 -Chinmay Somani
--Praveen Kumar
+-
